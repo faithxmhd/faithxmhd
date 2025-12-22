@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/INSTAGRAM-FaithXDesigns-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://discord.com/users/1097843326675341416">
-    <img src="https://img.shields.io/badge/DISCORD-FaithX-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/DISCORD-faithx.mhd-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
 
