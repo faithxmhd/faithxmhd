@@ -37,43 +37,31 @@ My focus is on understanding systems end-to-end rather than treating tools as bl
 `95%`  
 ████████████████████░
 
-markdown
-Copy code
 
 **hardware engineering**  
 `90%`  
 ███████████████████░░
 
-markdown
-Copy code
 
 **linux & system internals**  
 `95%`  
 ████████████████████░
 
-markdown
-Copy code
 
 **3d modelling / cad**  
 `85%`  
 █████████████████░░░░
 
-markdown
-Copy code
 
 **android / ios development**  
 `80%`  
 ████████████████░░░░░
 
-markdown
-Copy code
 
 **game development**  
 `70%`  
 ███████████████░░░░░░
 
-yaml
-Copy code
 
 ---
 
@@ -89,7 +77,8 @@ Copy code
 - networking and internals  
 - penetration testing environments  
 - package management and custom setups  
-- dual boot and bare metal systems  
+- dual boot and bare metal systems
+- i use arch btw 
 
 ---
 
