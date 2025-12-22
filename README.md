@@ -52,11 +52,11 @@ My focus is on understanding systems end-to-end rather than treating tools as bl
 `95%`  
 ████████████████████░
 
-**3D modelling / cad**  
+**3D modelling / CAD**  
 `85%`  
 █████████████████░░░░
 
-**Android / ios development**  
+**Android / IOS development**  
 `80%`  
 ████████████████░░░░░
 
