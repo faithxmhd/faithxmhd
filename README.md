@@ -33,32 +33,32 @@ My focus is on understanding systems end-to-end rather than treating tools as bl
 
 ## Skill distribution
 
-**programming**  
+**Programming**  
 `95%`  
 ████████████████████░
 
 
-**hardware engineering**  
+**Hardware engineering**  
 `90%`  
 ███████████████████░░
 
 
-**linux & system internals**  
+**Linux & system internals**  
 `95%`  
 ████████████████████░
 
 
-**3d modelling / cad**  
+**3D modelling / cad**  
 `85%`  
 █████████████████░░░░
 
 
-**android / ios development**  
+**Android / ios development**  
 `80%`  
 ████████████████░░░░░
 
 
-**game development**  
+**Game development**  
 `70%`  
 ███████████████░░░░░░
 
