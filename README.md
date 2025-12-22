@@ -22,7 +22,7 @@
 
 ---
 
-## profile
+## Profile
 
 I work across **software, hardware, and operating systems**.  
 Most of my learning happens through **building, breaking, debugging, and rebuilding**.
@@ -31,7 +31,7 @@ My focus is on understanding systems end-to-end rather than treating tools as bl
 
 ---
 
-## skill distribution
+## Skill distribution
 
 **programming**  
 `95%`  
@@ -77,7 +77,7 @@ Copy code
 
 ---
 
-## linux & security environments
+## Linux & security environments
 
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white">
@@ -93,7 +93,7 @@ Copy code
 
 ---
 
-## tools & languages
+## Tools & languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,cpp,c,bash,linux,git,nodejs,docker&theme=dark" />
@@ -101,7 +101,7 @@ Copy code
 
 ---
 
-## work style
+## Work style
 
 - minimal
 - documented
@@ -110,7 +110,7 @@ Copy code
 
 ---
 
-## stats
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faithxmhd&show_icons=true&theme=dark&hide_border=true" width="48%">
