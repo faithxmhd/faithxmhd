@@ -1,7 +1,7 @@
 <!-- FaithX | GitHub Profile -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%">
+  <img src="https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif" width="100%">
 </p>
 
 <h1 align="center">FaithX</h1>
@@ -120,7 +120,7 @@ Copy code
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvYRSYhA3V8v_k5NuJo1xIperh3qRkxbRgw&s" width="300">
 </p>
 
 <p align="center">
