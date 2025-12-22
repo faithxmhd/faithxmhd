@@ -4,7 +4,7 @@
   <img src="https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif" width="100%">
 </p>
 
-<h1 align="center">FaithX</h1>
+<h1 align="center">FaithXMHD</h1>
 <p align="center">
   <code>faithx.mhd</code>
 </p>
