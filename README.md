@@ -2,26 +2,31 @@
 <p align="center">
   <img src="https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif" width="100%">
 </p>
+
 <h1 align="center">FaithXMHD</h1>
+
 <p align="center">
   <code>faithx.mhd</code>
 </p>
+
 <p align="center">
   15 • Kerala, India<br>
   Systems • Software • Hardware • Linux
 </p>
+
 <p align="center">
   <a href="https://github.com/faithxmhd">
     <img src="https://img.shields.io/badge/GitHub-faithxmhd-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <br>
   <a href="https://www.instagram.com/faithx.mhd/">
-    <img src="https://img.shields.io/badge/Instagram-FaithXMHD-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/INSTAGRAM-FaithXMHD-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.instagram.com/faithx.designs/">
-    <img src="https://img.shields.io/badge/Instagram-FaithXDesigns-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/INSTAGRAM-FaithXDesigns-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://discord.com/users/1097843326675341416">
-    <img src="https://img.shields.io/badge/Discord-FaithX-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/DISCORD-FaithX-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
 
@@ -103,6 +108,7 @@ My focus is on understanding systems end-to-end rather than treating tools as bl
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvYRSYhA3V8v_k5NuJo1xIperh3qRkxbRgw&s" width="300">
 </p>
+
 <p align="center">
   <sub>quiet work • real systems</sub>
 </p>
