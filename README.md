@@ -10,32 +10,18 @@
 </p>
 
 <p align="center">
-  15 • Kerala, India<br>
+  16 • Kerala, India<br>
   Systems • Software • Hardware • Linux
 </p>
 
-<p align="center">
-  <a href="https://github.com/faithxmhd">
-    <img src="https://img.shields.io/badge/GitHub-faithxmhd-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <br>
-  <a href="https://www.instagram.com/faithx.mhd/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-FaithXMHD-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/faithx.designs/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-FaithXDesigns-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://discord.com/users/1097843326675341416">
-    <img src="https://img.shields.io/badge/DISCORD-faithx.mhd-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</p>
+
 
 ---
 
 ## Profile
 I work across **software, hardware, and operating systems**.  
 Most of my learning happens through **building, breaking, debugging, and rebuilding**.
-My focus is on understanding systems end-to-end rather than treating tools as black boxes.
+
 
 ---
 
