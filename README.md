@@ -3,15 +3,15 @@
   <img src="https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif" width="100%">
 </p>
 
-<h1 align="center">FaithXMHD</h1>
+<h1 align="center">faithxness</h1>
 
 <p align="center">
-  <code>faithx.mhd</code>
+  <code>faithxness</code>
 </p>
 
 <p align="center">
   16 • Kerala, India<br>
-  Systems • Software • Hardware • Linux
+  Systems • Software • Hardware • IoT
 </p>
 
 
