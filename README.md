@@ -97,5 +97,5 @@ Most of my learning happens through **building, breaking, debugging, and rebuild
 </p>
 
 <p align="center">
-  <sub>quiet work • real systems</sub>
+  <sub> • </sub>
 </p>
